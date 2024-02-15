@@ -622,5 +622,5 @@ fun main() {
 
 
     
-    // Kod burada sonlanıyor
+    // finish
 }
